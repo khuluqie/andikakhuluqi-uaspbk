@@ -1,0 +1,22 @@
+{
+  "transaksi": [
+    {
+      "id": 1,
+      "tanggal": "2025-07-04T14:35:00",
+      "pesanan": [
+        {
+          "id_menu": 1,
+          "nama_menu": "Nasi Goreng",
+          "harga": 15000,
+          "jumlah": 2
+        },
+        {
+          "id_menu": 3,
+          "nama_menu": "Es Teh",
+          "harga": 5000,
+          "jumlah": 1
+        }
+      ]
+    }
+  ]
+}
