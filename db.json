@@ -1,7 +1,7 @@
 {
   "transaksi": [
     {
-      "id": 1,
+      "id": "1",
       "tanggal": "2025-07-04T14:35:00",
       "pesanan": [
         {
@@ -14,6 +14,48 @@
           "id_menu": 3,
           "nama_menu": "Es Teh",
           "harga": 5000,
+          "jumlah": 1
+        }
+      ]
+    },
+    {
+      "id": "cae6",
+      "tanggal": "2025-07-04T22:28:42.977Z",
+      "pesanan": [
+        {
+          "id_menu": 1,
+          "nama_menu": "Rendang",
+          "harga": 20000,
+          "jumlah": 1
+        },
+        {
+          "id_menu": 2,
+          "nama_menu": "Ayam Goreng",
+          "harga": 15000,
+          "jumlah": 1
+        },
+        {
+          "id_menu": 3,
+          "nama_menu": "Ayam Bakar",
+          "harga": 16000,
+          "jumlah": 1
+        },
+        {
+          "id_menu": 4,
+          "nama_menu": "Ikan Goreng",
+          "harga": 14000,
+          "jumlah": 1
+        },
+        {
+          "id_menu": 7,
+          "nama_menu": "Tahu",
+          "harga": 3000,
+          "jumlah": 1
+        },
+        {
+          "id_menu": 12,
+          "nama_menu": "Es Jeruk",
+          "harga": 6000,
           "jumlah": 1
         }
       ]
